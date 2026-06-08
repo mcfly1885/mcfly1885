@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **mcfly1885/mcfly1885** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hi There! 👋
+Hi, I'm <b>Roberto</b> an Italian Information Technology Expert and I like coding, networking, IT security and Linux ecosystem. 
+
+## Technologies 🛠️ 
+ - Frontend: Html,Css, Javascript
+ - Backend: PHP, JSP
+ - Linux and Bash Scripting
+ - Programming Languages: Java, Python, C++
+ - Always open to learn something new 🌱
+
+ My favorite repo is [Bash Utility Scripts](https://github.com/mcfly1885/bash-utility-scripts), a collection of Bash script to automate operation on Linux.
