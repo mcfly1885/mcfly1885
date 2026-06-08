@@ -22,4 +22,4 @@ Hi, I'm <b>Roberto</b> an Italian Information Technology Expert and I like codin
  - Programming Languages: Java, Python, C++
  - Always open to learn something new 🌱
 
- My favorite repo is [Bash Utility Scripts](https://github.com/mcfly1885/bash-utility-scripts), a collection of Bash script to automate operation on Linux.
+ My favorite repo is [Bash Utility Scripts](https://github.com/mcfly1885/bash-utility-scripts), a collection of Bash scripts to automate operation on Linux.
